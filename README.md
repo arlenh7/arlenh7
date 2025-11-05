@@ -6,7 +6,7 @@ I love to program, play volleyball and play the saxophone in my free time!
 
 ### Some things about me:
 - I play volleyball, setter
-- My first language was actually C#
+- My first programming language I actually studied is C#, but now I have an interest in java and webdevelopment
 - I love programming MCP
 
 ### Some projects:
